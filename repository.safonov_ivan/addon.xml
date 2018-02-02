@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.0" provider-name="safonov_ivan">
+	<requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
     <extension point="xbmc.addon.repository">
         <info>https://raw.githubusercontent.com/safonovivan/repository.safonov_ivan/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/safonovivan/repository.safonov_ivan/master/addons.xml.md5</checksum>
