@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.0" provider-name="safonov_ivan">
+    <extension point="xbmc.addon.repository">
+        <info>https://raw.githubusercontent.com/safonovivan/repository.safonov_ivan/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/safonovivan/repository.safonov_ivan/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/safonovivan/repository.safonov_ivan/master/releases/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Install Add-ons from safonov_ivan</summary>
+        <summary lang="ru">Установить дополнения от safonov_ivan</summary>
+        <description lang="en">Download and install add-ons from the safonov_ivan add-on repository.</description>
+        <description lang="ru">Загружайте и устанавливайте обновления из репозитория safonov_ivan.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
