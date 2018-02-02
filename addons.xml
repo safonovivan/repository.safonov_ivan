@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-    <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.1" provider-name="safonov_ivan">
+    <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.0" provider-name="safonov_ivan">
         <extension point="xbmc.addon.repository"/>
         <extension point="xbmc.addon.metadata">
             <summary lang="en">Install Add-ons from safonov_ivan</summary>
