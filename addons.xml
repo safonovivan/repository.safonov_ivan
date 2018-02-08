@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
     <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.0" provider-name="safonov_ivan">
         <extension point="xbmc.addon.repository"/>
