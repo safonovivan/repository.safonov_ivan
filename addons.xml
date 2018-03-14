@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
     <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.0" provider-name="safonov_ivan">
         <extension point="xbmc.addon.repository"/>
@@ -152,7 +152,7 @@
 			<source>https://github.com/safonovivan/repository.safonov_ivan.git</source>
         </extension>
     </addon>
-	<addon id="skin.estuaryv2.mod" version="1.1.5" name="Estuaryv2.mod.lite" provider-name="Safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
+	<addon id="skin.estuaryv2.mod" version="1.1.6" name="Estuaryv2.mod.lite" provider-name="Safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
 		<requires>
 			<import addon="xbmc.gui" version="5.12.0"/>
 			<import addon="script.artistslideshow" version="2.0.0"/>
