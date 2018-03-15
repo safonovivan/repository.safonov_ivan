@@ -19,7 +19,7 @@
         <extension point="xbmc.gui.skin"/>
         <extension point="xbmc.addon.metadata">
             <summary lang="en_GB">Estuary v2 mod (Jarvis) skin by phil65, Piers, YLLOW_DRAGON, safonov_ivan.</summary>
-            <summary lang="ru_RU">Обложка Estuary v2 mod (Jarvis) Extended. Авторы: phil65, Piers, YLLOW_DRAGON, safonov_ivan.</summary>
+            <summary lang="ru_RU">Обложка Estuary v2 mod (Jarvis). Авторы: phil65, Piers, YLLOW_DRAGON, safonov_ivan.</summary>
             <description lang="en_GB">Estuary v2 mod (Jarvis)  - is the modernized skin for Kodi.</description>
             <description lang="ru_RU">Estuary v2 mod (Jarvis) - это модернизированная обложка KODI.</description>
             <disclaimer lang="en_GB">Estuary v2 mod (Jarvis)  - is the modernized skin for Kodi</disclaimer>
@@ -31,15 +31,15 @@
 			<source>https://github.com/safonovivan/repository.safonov_ivan.git</source>
         </extension>
     </addon>
-	<addon id="skin.estuaryv2.mod" version="1.1.8" name="Estuary v2 mod (Krypton)" provider-name="Safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
+	<addon id="skin.estuaryv2.mod" version="1.1.8" name="Estuary v2 mod (Krypton)" provider-name="safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
 		<requires>
 			<import addon="xbmc.gui" version="5.12.0"/>
 			<import addon="script.artistslideshow" version="2.0.0"/>
 		</requires>
         <extension point="xbmc.gui.skin"/>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en_GB">Estuary v2 mod (Krypton)" skin by phil65, Safonov_ivan.</summary>
-			<summary lang="ru_RU">Обложка Estuary v2 mod (Krypton)" Авторы: phil65, Piers, Safonov_ivan.</summary>
+			<summary lang="en_GB">Estuary v2 mod (Krypton)" skin by phil65, safonov_ivan.</summary>
+			<summary lang="ru_RU">Обложка Estuary v2 mod (Krypton)" Авторы: phil65, Piers, safonov_ivan.</summary>
 			<description lang="en_GB">Estuary v2 mod (Krypton)" is the default modernized skin for Kodi 17.0 and above. It attempts to be easy for first time Kodi users to understand and use.</description>
 			<description lang="ru_RU">Estuary v2 mod (Krypton)" — это стандартная модернизированная обложка Kodi, начиная с версии 17.0.&#10;Простая и понятная в использовании для новых пользователей Kodi.</description>
 			<platform>all</platform>
