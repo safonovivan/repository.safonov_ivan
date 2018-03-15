@@ -38,10 +38,10 @@
 		</requires>
         <extension point="xbmc.gui.skin"/>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en_GB">Estuary v2 mod (Jarvis) skin by phil65, Safonov_ivan.</summary>
-			<summary lang="ru_RU">Обложка Estuary v2 mod (Jarvis). Авторы: phil65, Piers, Safonov_ivan.</summary>
-			<description lang="en_GB">Estuary v2 mod (Jarvis) is the default modernized skin for Kodi 17.0 and above. It attempts to be easy for first time Kodi users to understand and use.</description>
-			<description lang="ru_RU">Estuary v2 mod (Jarvis) — это стандартная модернизированная обложка Kodi, начиная с версии 17.0.&#10;Простая и понятная в использовании для новых пользователей Kodi.</description>
+			<summary lang="en_GB">Estuary v2 mod (Krypton)" skin by phil65, Safonov_ivan.</summary>
+			<summary lang="ru_RU">Обложка Estuary v2 mod (Krypton)" Авторы: phil65, Piers, Safonov_ivan.</summary>
+			<description lang="en_GB">Estuary v2 mod (Krypton)" is the default modernized skin for Kodi 17.0 and above. It attempts to be easy for first time Kodi users to understand and use.</description>
+			<description lang="ru_RU">Estuary v2 mod (Krypton)" — это стандартная модернизированная обложка Kodi, начиная с версии 17.0.&#10;Простая и понятная в использовании для новых пользователей Kodi.</description>
 			<platform>all</platform>
 			<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
 			<forum>http://forum.kodi.tv/</forum>
