@@ -31,7 +31,7 @@
 			<source>https://github.com/safonovivan/repository.safonov_ivan.git</source>
         </extension>
     </addon>
-	<addon id="skin.estuaryv2.mod" version="1.2.0" name="Estuary v2 mod (Krypton)" provider-name="safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
+	<addon id="skin.estuaryv2.mod" version="1.2.1" name="Estuary v2 mod (Krypton)" provider-name="safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
 		<requires>
 			<import addon="xbmc.gui" version="5.12.0"/>
 			<import addon="script.artistslideshow" version="2.0.0"/>
