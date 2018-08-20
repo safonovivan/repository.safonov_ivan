@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.0" provider-name="safonov_ivan">
+    <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.1" provider-name="safonov_ivan">
         <extension point="xbmc.addon.repository"/>
         <extension point="xbmc.addon.metadata">
             <summary lang="en">Install Add-ons from safonov_ivan</summary>
@@ -47,6 +47,25 @@
 			<forum>http://forum.kodi.tv/</forum>
 			<email>safonov11111985@gmail.com</email>
 			<source>https://github.com/safonovivan/skin.estuaryv2.mod.git</source>
+			<news>1.2.2[CR] - Восстановлена работа кнопки Дополнительная информация.[CR] - Фикс опции Название выбранного пункта.[CR] - Мелкие правки.</news>
+		</extension>
+	</addon>
+	<addon id="skin.estuaryv2.modv2" version="0.6" name="Estuary v2 modv2 (Krypton) test" provider-name="safonov_ivan, YLLOW_DRAGON, phil65, Ichabod Fletchman">
+		<requires>
+			<import addon="xbmc.gui" version="5.12.0"/>
+			<import addon="script.artistslideshow" version="2.0.0"/>
+		</requires>
+        <extension point="xbmc.gui.skin"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">Estuary v2 mod (Krypton)" skin by phil65, safonov_ivan.</summary>
+			<summary lang="ru_RU">Обложка Estuary v2 mod (Krypton)" Авторы: phil65, Piers, safonov_ivan.</summary>
+			<description lang="en_GB">Estuary v2 mod (Krypton)" is the default modernized skin for Kodi 17.0 and above. It attempts to be easy for first time Kodi users to understand and use.</description>
+			<description lang="ru_RU">Estuary v2 mod (Krypton)" — это стандартная модернизированная обложка Kodi, начиная с версии 17.0.&#10;Простая и понятная в использовании для новых пользователей Kodi.</description>
+			<platform>all</platform>
+			<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+			<forum>http://forum.kodi.tv/</forum>
+			<email>safonov11111985@gmail.com</email>
+			<source>https://github.com/safonovivan/skin.estuaryv2.modv2.git</source>
 			<news>1.2.2[CR] - Восстановлена работа кнопки Дополнительная информация.[CR] - Фикс опции Название выбранного пункта.[CR] - Мелкие правки.</news>
 		</extension>
 	</addon>
