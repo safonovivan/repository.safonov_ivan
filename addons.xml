@@ -89,4 +89,28 @@
 			<source></source>
 		</extension>
 	</addon>
+    <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.1" provider-name="safonov_ivan">
+        <extension point="xbmc.addon.repository"/>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="en">Install Add-ons from safonov_ivan</summary>
+            <summary lang="ru">Установить дополнения от safonov_ivan</summary>
+            <description lang="en">Download and install add-ons from the safonov_ivan add-on repository.</description>
+            <description lang="ru">Загружайте и устанавливайте обновления из репозитория safonov_ivan.</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+	<addon id="resource.images.skinicons.estuary" name="Skin Icons - Estuary" version="1.0.0.001" provider-name="YLLOW_DRAGON">
+		<extension point="kodi.resource.images" compile="false" type="skinicons" />
+		<requires>
+			<import addon="kodi.resource" version="1.0.0"/>
+		</requires>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Skin Icons Pack - Estuary</summary>
+			<description lang="en">Skin Icons Pack - Estuary</description>
+			<platform>all</platform>
+			<email>nkvoronov@gmail.com</email>
+			<source>https://github.com/nkvoronov/resource.images.skinicons.estuary</source>
+		</extension>
+	</addon>
+
 </addons>
