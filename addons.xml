@@ -69,6 +69,28 @@
 			<news>0.8[CR] - Виджеты, меню, подменю, настройки и т.д..[CR]0.9[CR] - Локализация.[CR]0.9[CR] - Восстановлена работа кнопки Дополнительная информация.</news>
 		</extension>
 	</addon>
+	<addon id="skin.estuaryv2.modv3" version="0.0.1" name="Estuary v2 shortcuts" provider-name="phil65, Ichabod Fletchman, YLLOW_DRAGON, safonov_ivan">
+		<requires>
+			<import addon="xbmc.gui" version="5.14.0"/>
+			<import addon="resource.images.skinicons.estuary" version="1.0.0"/>
+			<import addon="script.skinshortcuts" version="1.0.17"/>
+		</requires>
+        <extension point="xbmc.gui.skin"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">Estuary v2 shortcuts skin by phil65, Piers, YLLOW_DRAGON, safonov_ivan.</summary>
+			<summary lang="ru_RU">Обложка Estuary v2 shortcuts. Авторы: phil65, Piers, YLLOW_DRAGON, safonov_ivan.</summary>
+			<description lang="en_GB">Estuary v2 shortcuts - is the modernized skin for Kodi.</description>
+			<description lang="ru_RU">Estuary v2 shortcuts - это модернизированная обложка KODI.</description>
+			<disclaimer lang="en_GB">Estuary v2 shortcuts - is the modernized skin for Kodi.</disclaimer>
+			<disclaimer lang="ru_RU">Estuary v2 shortcuts - это модернизированная обложка KODI.</disclaimer>
+			<platform>all</platform>
+			<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+			<forum>---</forum>
+			<email>safonov11111985@gmail.com</email>
+			<source>----</source>
+			<news>---</news>
+		</extension>
+	</addon>
 	<addon id="context.torrenter.dialog" name="Torrenter Search - Open dialog" version="1.0.3" provider-name="SergeSmitch">
 		<requires>
 			<import addon="xbmc.python" version="2.20.0"/>
@@ -89,16 +111,6 @@
 			<source></source>
 		</extension>
 	</addon>
-    <addon id="repository.safonov_ivan" name="safonov_ivan Add-on repository" version="1.0.1" provider-name="safonov_ivan">
-        <extension point="xbmc.addon.repository"/>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="en">Install Add-ons from safonov_ivan</summary>
-            <summary lang="ru">Установить дополнения от safonov_ivan</summary>
-            <description lang="en">Download and install add-ons from the safonov_ivan add-on repository.</description>
-            <description lang="ru">Загружайте и устанавливайте обновления из репозитория safonov_ivan.</description>
-            <platform>all</platform>
-        </extension>
-    </addon>
 	<addon id="resource.images.skinicons.estuary" name="Skin Icons - Estuary" version="1.0.0.001" provider-name="YLLOW_DRAGON">
 		<extension point="kodi.resource.images" compile="false" type="skinicons" />
 		<requires>
